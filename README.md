@@ -1,5 +1,5 @@
 # Covid19_ICU
-Refer to included PDF![https://github.com/quaydragon/Covid19_ICU/blob/main/COVID19%20Severity%20Prediction%20Models.pdf] for a full writeup and code explanation. Project completed by Quay Dragon, Tom Wiseman, and Shilin Zhou Fall 2021 for Paul Hand's Machine Learning Course CS6140 at Northeastern University.  
+Refer to included ![PDF](https://github.com/quaydragon/Covid19_ICU/blob/main/COVID19%20Severity%20Prediction%20Models.pdf) for a full writeup and code explanation. Project completed by Quay Dragon, Tom Wiseman, and Shilin Zhou Fall 2021 for Paul Hand's Machine Learning Course CS6140 at Northeastern University.  
 
 # Abstract
 The recent spread of the COVID-19 virus has placed an incredible strain on the worldwide healthcare system. Intelligent allocation of limited medical resources during a crisis is critical for preventing a collapse of the healthcare system and treating the greatest number of people possible. This project aims to assist hospitals allocate limited beds, personal protective equipment, and staff during the early stages of a developing outbreak.
