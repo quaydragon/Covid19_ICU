@@ -6,3 +6,11 @@ The recent spread of the COVID-19 virus has placed an incredible strain on the w
 
 Given a dataset of COVID-19 patients that includes demographic data, medical history and a time series of vitals/blood test results, we build several predictors that predict whether or not that patient will need ICU care in the near future. The classifiers we built were based on Multi-tiered Logistic Regression, Multi-tiered Ridge Regression, k-nearest neighbors, and multi-layer perceptron. The results of these predictors can be used to triage individual COVID cases, even before severe symptoms may become apparent. 
 
+# Models Implemented:
+- Multi-tiered Logistic Regression
+
+- Multi-tiered Ridge Regression
+
+- Multi-Layer Perceptron Neural Network
+
+- K-nearest Neighbors Classifier after Principal Componenent Analysis
